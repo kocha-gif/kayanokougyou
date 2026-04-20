@@ -1,3 +1,4 @@
+// 萱野工業 コーポレートサイト
 import { CompanyInfo, JobPost } from './types';
 
 export const COMPANY_INFO: CompanyInfo = {
