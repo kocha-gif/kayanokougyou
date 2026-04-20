@@ -60,6 +60,21 @@ export const RECRUITMENT_INFO: JobPost = {
   ]
 };
 
+export const SITE_IMAGES = {
+  hero: "https://images.unsplash.com/photo-1581094288338-2314dddb7ec4?auto=format&fit=crop&q=80&w=1600",
+  servicePipe: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&q=80&w=800",
+  serviceWelding: "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?auto=format&fit=crop&q=80&w=800",
+  serviceMaintenance: "https://images.unsplash.com/photo-1581092120530-66b89a557554?auto=format&fit=crop&q=80&w=800",
+  trialWork: "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?auto=format&fit=crop&q=80&w=800",
+  aboutBuilding: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=1200",
+  teaser: [
+    "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?auto=format&fit=crop&q=80&w=600",
+    "https://images.unsplash.com/photo-1516937941344-00b4e0337589?auto=format&fit=crop&q=80&w=600",
+    "https://images.unsplash.com/photo-1541888946425-d81bb19480c5?auto=format&fit=crop&q=80&w=600",
+    "https://images.unsplash.com/photo-1513311014876-17b4ad32a8a4?auto=format&fit=crop&q=80&w=600"
+  ],
+};
+
 export const SERVICES = [
   {
     title: "プラント配管工事",
