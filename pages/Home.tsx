@@ -89,7 +89,7 @@ const Home: React.FC = () => {
           <h2 className="text-3xl font-bold text-kayano-blue mb-8">一緒に働く仲間を募集中です</h2>
           <p className="text-xl text-slate-700 mb-8 max-w-2xl mx-auto">
             {RECRUITMENT_INFO.title}<br/>
-            <span className="text-sm mt-2 block">経験者：月給30万円〜 / 未経験者：月給25.3万円〜</span>
+            <span className="text-sm mt-2 block">技術作業員（経験者）：月給30万円〜 / 技術作業員（未経験者）：月給25万円〜{'\n'}軽作業員(手元)（経験者）：月給26万円〜 / 軽作業員(手元)（未経験者）：月給23万円〜{'\n'}※給与は要相談</span>
           </p>
           <Link 
             to="/recruit" 
